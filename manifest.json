@@ -1,0 +1,25 @@
+{
+  "name": "Ambala Clock",
+  "short_name": "Ambala Clock",
+  "description": "Live digital clock showing current time in Ambala, India (IST)",
+  "start_url": "/Kuze9989/",
+  "scope": "/Kuze9989/",
+  "display": "standalone",
+  "background_color": "#0E1A1C",
+  "theme_color": "#0E1A1C",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
